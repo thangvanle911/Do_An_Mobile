@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+
+    <release
+        date="12/26/2020"
+        summary="Example summary"
+        version="1.2"
+        versioncode="3">
+        <change>
+            Là một phần của bản phát hành đầu tiên, ứng dụng phải có các tính năng sau:
+        </change>
+        <change>
+            1. Người dùng sẽ có thể xem danh sách các sản phẩm được nhóm theo danh mục.
+        </change>
+        <change>
+            2. Người dùng có thể xem chi tiết bằng cách chọn một sản phẩm từ danh sách.
+        </change>
+        <change>
+            3. Chi tiết sản phẩm bao gồm hình ảnh, tên và giá của sản phẩm.
+        </change>
+        <change>
+            4. Trang chi tiết sản phẩm nên có nút để thêm sản phẩm vào giỏ hàng.
+        </change>
+        <change>
+            5. Giỏ hàng hiển thị danh sách các sản phẩm cùng với giá của nó.
+        </change>
+        <change>
+            6. Giỏ hàng cũng hiển thị tổng giá cho tất cả các sản phẩm được thêm vào.
+        </change>
+        <change>
+            7. Người dùng có thể xem giỏ hàng bất kỳ lúc nào.
+        </change>
+        <change>
+            8. Người dùng cũng có thể điều hướng đến chi tiết sản phẩm từ Giỏ hàng.
+        </change>
+        <change>
+            9. Người dùng có thể xóa bất kỳ sản phẩm nào khỏi giỏ hàng.
+        </change>
+        <change>
+            10. Giỏ hàng phải được duy trì trong ứng dụng, tức là nếu người dùng thoát khỏi ứng dụng, giỏ hàng sẽ có sẵn khi khởi chạy lại ứng dụng.
+        </change>
+        <change>
+            11. Tất cả dữ liệu cần được lưu trữ cục bộ trong ứng dụng và không nên dựa vào bất kỳ dịch vụ bên ngoài nào.
+        </change>
+    </release>
+    <release
+        date="12/25/2020"
+        version="1.1"
+        versioncode="2">
+        <change>
+            Thay đổi nhỏ bố cục
+        </change>
+        <change>
+            Tinh chỉnh nhỏ
+        </change>
+    </release>
+
+</changelog>

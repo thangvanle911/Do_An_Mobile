@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">TVK Shop</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="empty_text">Chọn 1 sản phẩm để thêm vào giỏ hàng</string>
+    <string name="standard">Tiêu chuẩn</string>
+    <string name="title_changelog">Thay đổi bài viết</string>
+    <string name="changelog_close">Đóng</string>
+    <string name="action_hide">Ẩn</string>
+    <string name="action_show">Hiện</string>
+    <string name="action_anchor_enable">Bật</string>
+    <string name="action_anchor_disable">Tắt</string>
+    <string name="idle">Vô hiệu hóa</string>
+    <string name="crash_toast_text">Rất tiếc! Đã xảy ra sự cố!</string>
+    <string name="offer_banner">"Với hóa đơn trên 1.000.000 VNĐ bạn sẽ được giảm giá 20%"</string>
+    <string name="checkout">Thanh toán</string>
+    <string name="similar_product">Sản phẩm tương tự</string>
+    <string name="slogan">Sự lựa chọn của mọi nhà</string>
+    <string name="email_developer_">Địa chỉ Email:</string>
+    <string name="contact_number">Số điện thoại:</string>
+    <string name="mob_num">0912345678</string>
+    <string name="lab_locations">Tỉnh/Thành phố:</string>
+    <string name="pune">Thành phố Hồ Chí Minh</string>
+    <string name="address_value">KTX khu A, ĐHQG thành phố HCM</string>
+
+</resources>
